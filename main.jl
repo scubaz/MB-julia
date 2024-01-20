@@ -1,3 +1,6 @@
+# Julia is a newer programming language used for data science.  Similar to python but billed as faster.
+# Learn more about it at https://julialang.org/
+
 # Ask the user his/her name and store it in the my_name variable
 print("What is your name, Scout? ")
 my_name = chomp(readline())
